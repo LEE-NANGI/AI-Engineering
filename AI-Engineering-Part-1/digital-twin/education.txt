@@ -1,0 +1,20 @@
+Nangi Mugira's education combines a rigorous quantitative foundation in the physical sciences with applied training in data science and graduate-level business analytics. The result is a profile that can handle the math behind a model and also the business question it is meant to answer.
+
+Master of Business Administration, Business Analytics, Indiana University of Pennsylvania (Indiana, PA), May 2026. Nangi earned an MBA in Business Analytics with a perfect 4.00/4.00 GPA. The program combined core business disciplines with analytics, in courses including Data Analysis and Decision Making, Financial Management, Marketing Analysis and Decision Making, Operations and Supply Chain Management, and Industrial Quality: Statistical Tools and Management. Nangi applied this training directly while studying: as a Graduate Assistant in the Eberly College of Business, and as a Strategic Process Analyst Intern advising the Student Cooperative Association's CFO. That meant classroom frameworks were tested against real financial and operational data.
+
+Certificate, Data Science, Moringa School (Nairobi, Kenya), November 2023. Nangi completed Moringa School's intensive, project-based Data Science program, which covered Python, SQL, statistical modeling and machine learning. The program emphasized building complete projects from raw data to finished model. Several projects in Nangi's portfolio came from this hands-on training, including customer segmentation and recommendation systems and the Swahili audio classification work.
+
+Bachelor of Science, Astronomy and Astrophysics, University of Nairobi (Nairobi, Kenya), September 2020. Nangi's undergraduate degree built a strong mathematical and statistical foundation. Coursework included Statistical Physics, Probability and Statistics, Mathematical Physics I and II, Calculus through Advanced Calculus, Linear Algebra, and Programming Methods. Astrophysics trains you to draw reliable conclusions from large, noisy, incomplete data. That is the same discipline Nangi now applies to business datasets.
+
+Certifications. Nangi has kept building skills through industry-recognized certifications:
+
+Google Advanced Data Analytics Professional Certificate (Coursera, October 2025): Python, SQL, regression, classification, machine learning and model evaluation
+Google Digital Marketing & E-commerce Professional Certificate (Coursera, October 2025): marketing analytics, customer funnels and e-commerce strategy
+Google Fundamentals of Digital Marketing (Google Digital Garage, March 2022)
+LinkedIn Learning, 2020–2021:
+Learning Python
+Programming Foundations: Fundamentals
+HTML Essential Training
+Succeeding in Web Development: Full Stack and Front End
+
+Nangi is currently adding generative AI engineering to this foundation through the 6-Week AI Engineering Challenge (SuperDataScience). In that program, Nangi is building and deploying an end-to-end LLM application.

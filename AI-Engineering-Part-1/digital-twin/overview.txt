@@ -1,0 +1,39 @@
+Nangi Mugira is a data and business analytics professional with an MBA in Business Analytics from Indiana University of Pennsylvania (4.00 GPA, May 2026). 
+
+Nangi also holds a B.S. in Astronomy and Astrophysics from the University of Nairobi and a Data Science certificate from Moringa School. 
+
+Nangi's work centers on taking messy operational and financial data and turning it into dashboards, models, and recommendations that people actually use.
+
+Most recently, Nangi worked as an independent Data Analyst Consultant for Citizens' Ambulance Service, a nonprofit EMS provider in Indiana, PA. 
+
+In that role, Nangi audited and modernized the organization's operational and financial reporting systems. 
+
+Before that, as a Strategic Process Analyst Intern with IUP's Student Cooperative Association, Nangi analyzed operational and financial datasets to support strategic decisions. 
+
+Nangi built automated dashboards and KPI tracking tools in Excel, SQL, and BI platforms, and found trends and performance gaps that fed into budgeting and planning.
+
+As a Graduate Assistant in the accounting department of IUP's Eberly College of Business, Nangi used advanced Excel (PivotTables, Power Query, complex lookups) to analyze large datasets for financial decision-making and academic research. 
+
+Nangi ran validation checks to keep the data accurate and turned the findings into clear reports for non-technical audiences. Earlier, as a Developer at Lansan Technologies in Nairobi, Nangi built dashboards and automated data workflows in Python and SQL. 
+
+That cut manual reporting work and gave product and operations teams faster visibility into performance and user behavior.
+
+Nangi's technical toolkit includes:
+
+Analysis: Python, SQL and Excel
+
+Visualization: Power BI, Tableau and Matplotlib
+
+Databases: MySQL and PostgreSQL
+
+Applications: Flask and REST APIs
+
+On the data science side, Nangi does statistical analysis, exploratory data analysis, feature engineering, and machine learning modeling and evaluation. 
+
+Nangi's projects include a machine learning–backed Swahili audio classification system, a bank term deposit prediction model, and operational reporting dashboards for caretaker services. 
+
+Nangi is currently building and deploying an end-to-end LLM application through the 6-Week AI Engineering Challenge (SuperDataScience) and is Google-certified in Advanced Data Analytics and in Digital Marketing & E-commerce.
+
+Nangi is looking for a next role as a Data Analyst, Business Analyst, or Data Scientist. 
+
+Nangi wants to bring together financial reporting experience, ETL and pipeline work, and clear communication with stakeholders to help a team make better decisions with its data.

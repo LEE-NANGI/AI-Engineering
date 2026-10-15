@@ -1,0 +1,43 @@
+Nangi Mugira's experience runs from network infrastructure to backend development, research analytics, strategic process analysis and independent consulting. Across those roles, the common thread is turning raw operational and financial data into reporting systems and recommendations that people trust and use.
+
+Data Analyst Consultant, Citizens' Ambulance Service (Indiana, PA), September 2026. Nangi worked as an independent contractor for Citizens' Ambulance Service, a nonprofit EMS provider founded in 1964. It serves Indiana County and parts of Armstrong, Westmoreland and Clearfield Counties, and answers more than 8,400 emergency calls a year. 
+
+Nangi was brought in to audit and modernize the organization's operational and financial reporting, centered on a legacy Excel workbook inherited from a predecessor. 
+
+Nangi mapped what the workbook tracked, who relied on its outputs (board, billing and state reporting) and how it was maintained, and checked it for data-sensitivity risks such as patient or billing information. 
+
+Nangi used an audit-before-changing approach and recommended running the old and new systems side by side, so a single fragile workbook wouldn't be the organization's only point of failure. 
+
+Nangi also proposed concrete Excel improvements: structured Tables, named ranges, Power Query, data validation, protected cells, and documented helper columns in place of deeply nested formulas. Alongside that, Nangi assessed when it would make sense to move beyond Excel to a SQL and Power BI setup.
+
+Strategic Process Analyst Intern, Student Cooperative Association, Indiana University of Pennsylvania (Indiana, PA), January–May 2026. Reporting directly to the Chief Financial Officer, Nangi led a strategic evaluation of the Student Groups Budgeting process within a $7.9M operation. 
+
+Nangi mapped the full workflow, including administrative steps, timelines and approval pathways. 
+
+Nangi then analyzed the internal administrative workload to find bottlenecks, redundancies and unnecessary complexity, and reviewed the process from the student leaders' side to find confusing forms, instructions and requirements. 
+
+Nangi cleaned, validated and analyzed the operational and financial datasets behind the process to find trends, anomalies and performance gaps. 
+
+Nangi also built automated dashboards and KPI tracking tools in Excel, SQL and BI platforms, which made reporting faster and easier to access. 
+
+The internship produced current-state and future-state process maps, a prioritized improvement roadmap with implementation considerations, a written report of findings, and an executive presentation to leadership, including the CFO.
+
+Those insights directly supported budgeting, planning and operational decisions.
+
+Graduate Assistant, Accounting & Information Systems, Eberly College of Business, Indiana University of Pennsylvania (Indiana, PA), August 2024–May 2025. 
+
+Nangi supported financial decision-making and faculty research with data analysis in Python, SQL and advanced Excel (PivotTables, Power Query and complex lookups). 
+
+Nangi turned large datasets into actionable insights and built Power BI and Tableau visualizations to communicate them. 
+
+Nangi kept the data accurate with validation checks and structured documentation, and turned complex findings into clear reports and presentations for non-technical audiences. Beyond the analytics, Nangi collected data, reviewed literature, and helped research teams draft and edit academic papers.
+
+Nangi also managed scheduling, correspondence and documentation for faculty, setting up organized workflows that kept the department running smoothly.
+
+Developer (Data Scientist / Backend Developer), Lansan Technologies (Nairobi, Kenya), January–August 2024. Nangi collected, processed and analyzed business and customer data to inform product and operational decisions. 
+
+Nangi also developed, tested and maintained predictive models and machine learning solutions for business use cases. On the engineering side, Nangi built scalable server-side routes in Flask following REST principles. Nangi also built ETL pipelines with Pandas and SQLAlchemy on top of PostgreSQL, which made data flow and storage more efficient and reliable. 
+
+Nangi automated reporting workflows in Python and SQL, cutting manual effort. Working with a team of four developers, Nangi built dashboards and visualizations in Matplotlib and Tableau to track performance metrics and user behavior. All of this work was reproducible and version-controlled. Nangi fed model outputs into dashboards and reports, and explained each model's performance, limitations and expected impact to technical and business teams alike.
+
+Networking Technician, Fiberlink Limited (Nairobi, Kenya), April–July 2022. Nangi began their career in network infrastructure: testing, laying and diagnosing faults in network cabling to industry standards. Nangi monitored the performance of more than 50 networking devices and resolved issues before they escalated, reducing downtime. This early role built the systematic, diagnostic habits Nangi still brings to auditing data systems.

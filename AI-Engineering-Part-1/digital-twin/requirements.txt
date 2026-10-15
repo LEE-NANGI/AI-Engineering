@@ -1,0 +1,6 @@
+openai
+gradio
+python-dotenv
+chromadb
+huggingface_hub
+requests
