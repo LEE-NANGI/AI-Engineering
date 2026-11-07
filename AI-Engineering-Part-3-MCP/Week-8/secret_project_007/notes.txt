@@ -1,0 +1,16 @@
+Project Falcon — kickoff notes
+- Estimated budget: $42,000
+- Launch target: end of Q3
+- Owner: Priya
+- Core team: Marco (engineering), Lena (design), Sam (go-to-market)
+What it is:
+Falcon is a tech news and discussion community with AI avatars who provide commentary
+It's like a Hacker News + a Late Night Talk Show, but in written format and with AI commentators.
+The bet: engaging AI avatars will quickly become fan-favourites because of the unique dynamic between them.
+Premise:
+Ship before the competition announces theirs; quiet until then
+Hacker News is the benchmark — we study it constantly to understand what the community wants
+Two competitors rumored to be building something similar — speed is the moat
+'Falcon' is a placeholder; marketing hates it, but it has stuck
+Priya's one hard rule: do not slip the Q3 date to add features
+Open question: what are the most popular categories on Hacker News?

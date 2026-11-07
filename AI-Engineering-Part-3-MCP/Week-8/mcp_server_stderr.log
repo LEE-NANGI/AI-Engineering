@@ -1,0 +1,264 @@
+Secure MCP Filesystem Server running on stdio
+Effective allowed directories (from the command line):
+  C:\Users\User\OneDrive\Desktop\AI-Engineering\AI-Engineering-Part-3-MCP\Week-8\secret_project_007
+Secure MCP Filesystem Server running on stdio
+Effective allowed directories (from the command line):
+  C:\Users\User\OneDrive\Desktop\AI-Engineering\AI-Engineering-Part-3-MCP\Week-8\secret_project_007
+Secure MCP Filesystem Server running on stdio
+Effective allowed directories (from the command line):
+  C:\Users\User\OneDrive\Desktop\AI-Engineering\AI-Engineering-Part-3-MCP\Week-8\secret_project_007
+Secure MCP Filesystem Server running on stdio
+Effective allowed directories (from the command line):
+  C:\Users\User\OneDrive\Desktop\AI-Engineering\AI-Engineering-Part-3-MCP\Week-8\secret_project_007
+Client does not support MCP Roots, using allowed directories set from server args: [
+  'C:\\Users\\User\\OneDrive\\Desktop\\AI-Engineering\\AI-Engineering-Part-3-MCP\\Week-8\\secret_project_007'
+]
+Effective allowed directories (from the command line):
+  C:\Users\User\OneDrive\Desktop\AI-Engineering\AI-Engineering-Part-3-MCP\Week-8\secret_project_007
+Secure MCP Filesystem Server running on stdio
+Effective allowed directories (from the command line):
+  C:\Users\User\OneDrive\Desktop\AI-Engineering\AI-Engineering-Part-3-MCP\Week-8\secret_project_007
+Secure MCP Filesystem Server running on stdio
+Effective allowed directories (from the command line):
+  C:\Users\User\OneDrive\Desktop\AI-Engineering\AI-Engineering-Part-3-MCP\Week-8\secret_project_007
+Downloading pydantic-core (2.2MiB)
+ Downloaded pydantic-core
+Installed 48 packages in 2.03s
+Secure MCP Filesystem Server running on stdio
+Effective allowed directories (from the command line):
+  C:\Users\User\OneDrive\Desktop\AI-Engineering\AI-Engineering-Part-3-MCP\Week-8\secret_project_007
+HTTP Request: GET https://news.ycombinator.com/robots.txt "HTTP/1.1 200 OK"
+HTTP Request: GET https://news.ycombinator.com/ "HTTP/1.1 200 OK"
+mcp-server-fetch: installing Readability.js's dependencies with npm in C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript (first use; this contacts the npm registry)
+
+added 30 packages in 6s
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'jsdom@31.0.0',
+npm warn EBADENGINE   required: { node: '^22.22.2 || ^24.15.0 || >=26.0.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@exodus/bytes@1.16.0',
+npm warn EBADENGINE   required: { node: '^20.19.0 || ^22.12.0 || >=24.0.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'data-urls@8.0.0',
+npm warn EBADENGINE   required: { node: '^22.14.0 || >=24.0.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'html-encoding-sniffer@7.0.0',
+npm warn EBADENGINE   required: { node: '^22.13.0 || >=24.0.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'undici@8.12.4',
+npm warn EBADENGINE   required: { node: '>=22.19.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'w3c-xmlserializer@6.0.0',
+npm warn EBADENGINE   required: { node: '^22.22.2 || ^24.15.0 || >=26.0.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'whatwg-url@17.3.0',
+npm warn EBADENGINE   required: { node: '^22.14.0 || >=24.0.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'entities@9.0.0',
+npm warn EBADENGINE   required: { node: '>=20.19.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'tr46@7.0.0',
+npm warn EBADENGINE   required: { node: '^22.14.0 || >=24.0.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js:2
+const { getBOMEncoding, labelToName } = require("@exodus/bytes/encoding-lite.js");
+                                        ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\@exodus\bytes\encoding-lite.js from C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js not supported.
+Instead change the require of encoding-lite.js in C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js:2:41) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.15.1
+mcp-server-fetch: Readability.js failed (exit 1); using the pure-Python extractor for this page
+Secure MCP Filesystem Server running on stdio
+Effective allowed directories (from the command line):
+  C:\Users\User\OneDrive\Desktop\AI-Engineering\AI-Engineering-Part-3-MCP\Week-8\secret_project_007
+HTTP Request: GET https://news.ycombinator.com/robots.txt "HTTP/1.1 200 OK"
+HTTP Request: GET https://news.ycombinator.com/ "HTTP/1.1 200 OK"
+C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js:2
+const { getBOMEncoding, labelToName } = require("@exodus/bytes/encoding-lite.js");
+                                        ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\@exodus\bytes\encoding-lite.js from C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js not supported.
+Instead change the require of encoding-lite.js in C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js:2:41) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.15.1
+mcp-server-fetch: Readability.js failed (exit 1); using the pure-Python extractor for this page
+Secure MCP Filesystem Server running on stdio
+Effective allowed directories (from the command line):
+  C:\Users\User\OneDrive\Desktop\AI-Engineering\AI-Engineering-Part-3-MCP\Week-8\secret_project_007
+HTTP Request: GET https://news.ycombinator.com/robots.txt "HTTP/1.1 200 OK"
+HTTP Request: GET https://news.ycombinator.com/ "HTTP/1.1 200 OK"
+C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js:2
+const { getBOMEncoding, labelToName } = require("@exodus/bytes/encoding-lite.js");
+                                        ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\@exodus\bytes\encoding-lite.js from C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js not supported.
+Instead change the require of encoding-lite.js in C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js:2:41) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.15.1
+mcp-server-fetch: Readability.js failed (exit 1); using the pure-Python extractor for this page
+Secure MCP Filesystem Server running on stdio
+Effective allowed directories (from the command line):
+  C:\Users\User\OneDrive\Desktop\AI-Engineering\AI-Engineering-Part-3-MCP\Week-8\secret_project_007
+HTTP Request: GET https://news.ycombinator.com/robots.txt "HTTP/1.1 200 OK"
+HTTP Request: GET https://news.ycombinator.com/ "HTTP/1.1 200 OK"
+C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js:2
+const { getBOMEncoding, labelToName } = require("@exodus/bytes/encoding-lite.js");
+                                        ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\@exodus\bytes\encoding-lite.js from C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js not supported.
+Instead change the require of encoding-lite.js in C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js:2:41) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.15.1
+mcp-server-fetch: Readability.js failed (exit 1); using the pure-Python extractor for this page
+Secure MCP Filesystem Server running on stdio
+Effective allowed directories (from the command line):
+  C:\Users\User\OneDrive\Desktop\AI-Engineering\AI-Engineering-Part-3-MCP\Week-8\secret_project_007
+HTTP Request: GET https://news.ycombinator.com/robots.txt "HTTP/1.1 200 OK"
+HTTP Request: GET https://news.ycombinator.com/ "HTTP/1.1 200 OK"
+C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js:2
+const { getBOMEncoding, labelToName } = require("@exodus/bytes/encoding-lite.js");
+                                        ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\@exodus\bytes\encoding-lite.js from C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js not supported.
+Instead change the require of encoding-lite.js in C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (C:\Users\User\AppData\Local\uv\cache\archive-v0\60JM3YcKT434T0Y3\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js:2:41) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.15.1
+mcp-server-fetch: Readability.js failed (exit 1); using the pure-Python extractor for this page
+Secure MCP Filesystem Server running on stdio
+Effective allowed directories (from the command line):
+  C:\Users\User\OneDrive\Desktop\AI-Engineering\AI-Engineering-Part-3-MCP\Week-8\secret_project_007
+Client does not support MCP Roots, using allowed directories set from server args: [
+  'C:\\Users\\User\\OneDrive\\Desktop\\AI-Engineering\\AI-Engineering-Part-3-MCP\\Week-8\\secret_project_007'
+]
+Effective allowed directories (from the command line):
+  C:\Users\User\OneDrive\Desktop\AI-Engineering\AI-Engineering-Part-3-MCP\Week-8\secret_project_007
+Installed 48 packages in 4.25s
+HTTP Request: GET https://news.ycombinator.com/robots.txt "HTTP/1.1 200 OK"
+HTTP Request: GET https://news.ycombinator.com/ "HTTP/1.1 200 OK"
+mcp-server-fetch: installing Readability.js's dependencies with npm in C:\Users\User\AppData\Local\uv\cache\archive-v0\_2oOUJ7WYSSG_sAk\lib\site-packages\readabilipy\javascript (first use; this contacts the npm registry)
+
+added 30 packages in 7s
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'jsdom@31.0.0',
+npm warn EBADENGINE   required: { node: '^22.22.2 || ^24.15.0 || >=26.0.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@exodus/bytes@1.16.0',
+npm warn EBADENGINE   required: { node: '^20.19.0 || ^22.12.0 || >=24.0.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'data-urls@8.0.0',
+npm warn EBADENGINE   required: { node: '^22.14.0 || >=24.0.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'html-encoding-sniffer@7.0.0',
+npm warn EBADENGINE   required: { node: '^22.13.0 || >=24.0.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'undici@8.12.4',
+npm warn EBADENGINE   required: { node: '>=22.19.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'w3c-xmlserializer@6.0.0',
+npm warn EBADENGINE   required: { node: '^22.22.2 || ^24.15.0 || >=26.0.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'whatwg-url@17.3.0',
+npm warn EBADENGINE   required: { node: '^22.14.0 || >=24.0.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'entities@9.0.0',
+npm warn EBADENGINE   required: { node: '>=20.19.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'tr46@7.0.0',
+npm warn EBADENGINE   required: { node: '^22.14.0 || >=24.0.0' },
+npm warn EBADENGINE   current: { node: 'v20.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+C:\Users\User\AppData\Local\uv\cache\archive-v0\_2oOUJ7WYSSG_sAk\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js:2
+const { getBOMEncoding, labelToName } = require("@exodus/bytes/encoding-lite.js");
+                                        ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\User\AppData\Local\uv\cache\archive-v0\_2oOUJ7WYSSG_sAk\lib\site-packages\readabilipy\javascript\node_modules\@exodus\bytes\encoding-lite.js from C:\Users\User\AppData\Local\uv\cache\archive-v0\_2oOUJ7WYSSG_sAk\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js not supported.
+Instead change the require of encoding-lite.js in C:\Users\User\AppData\Local\uv\cache\archive-v0\_2oOUJ7WYSSG_sAk\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (C:\Users\User\AppData\Local\uv\cache\archive-v0\_2oOUJ7WYSSG_sAk\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js:2:41) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.15.1
+mcp-server-fetch: Readability.js failed (exit 1); using the pure-Python extractor for this page
+Secure MCP Filesystem Server running on stdio
+Effective allowed directories (from the command line):
+  C:\Users\User\OneDrive\Desktop\AI-Engineering\AI-Engineering-Part-3-MCP\Week-8\secret_project_007
+HTTP Request: GET https://news.ycombinator.com/robots.txt "HTTP/1.1 200 OK"
+HTTP Request: GET https://news.ycombinator.com/ "HTTP/1.1 200 OK"
+C:\Users\User\AppData\Local\uv\cache\archive-v0\_2oOUJ7WYSSG_sAk\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js:2
+const { getBOMEncoding, labelToName } = require("@exodus/bytes/encoding-lite.js");
+                                        ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\User\AppData\Local\uv\cache\archive-v0\_2oOUJ7WYSSG_sAk\lib\site-packages\readabilipy\javascript\node_modules\@exodus\bytes\encoding-lite.js from C:\Users\User\AppData\Local\uv\cache\archive-v0\_2oOUJ7WYSSG_sAk\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js not supported.
+Instead change the require of encoding-lite.js in C:\Users\User\AppData\Local\uv\cache\archive-v0\_2oOUJ7WYSSG_sAk\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (C:\Users\User\AppData\Local\uv\cache\archive-v0\_2oOUJ7WYSSG_sAk\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js:2:41) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.15.1
+mcp-server-fetch: Readability.js failed (exit 1); using the pure-Python extractor for this page
+Secure MCP Filesystem Server running on stdio
+Effective allowed directories (from the command line):
+  C:\Users\User\OneDrive\Desktop\AI-Engineering\AI-Engineering-Part-3-MCP\Week-8\secret_project_007
+HTTP Request: GET https://news.ycombinator.com/robots.txt "HTTP/1.1 200 OK"
+HTTP Request: GET https://news.ycombinator.com/ "HTTP/1.1 200 OK"
+C:\Users\User\AppData\Local\uv\cache\archive-v0\_2oOUJ7WYSSG_sAk\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js:2
+const { getBOMEncoding, labelToName } = require("@exodus/bytes/encoding-lite.js");
+                                        ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\User\AppData\Local\uv\cache\archive-v0\_2oOUJ7WYSSG_sAk\lib\site-packages\readabilipy\javascript\node_modules\@exodus\bytes\encoding-lite.js from C:\Users\User\AppData\Local\uv\cache\archive-v0\_2oOUJ7WYSSG_sAk\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js not supported.
+Instead change the require of encoding-lite.js in C:\Users\User\AppData\Local\uv\cache\archive-v0\_2oOUJ7WYSSG_sAk\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (C:\Users\User\AppData\Local\uv\cache\archive-v0\_2oOUJ7WYSSG_sAk\lib\site-packages\readabilipy\javascript\node_modules\html-encoding-sniffer\lib\html-encoding-sniffer.js:2:41) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.15.1
+mcp-server-fetch: Readability.js failed (exit 1); using the pure-Python extractor for this page
